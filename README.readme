@@ -1,0 +1,14 @@
+/**
+ * Created by: Deepti Chevvuri Date: 2/10/2017.
+ */
+Please place all the lab1 input files like
+"vocabulary.txt", "map.csv", "train_data.csv", "train_label.csv", "test_data.csv", "test_label.csv"
+beside the src file in the project folder before executing.
+the java file must be placed in the src file.
+Chose NaiveBayes.java and execute its main method.
+
+This should sequentially print all the outputs on the console.
+
+• Class priors
+• Performance on training data (using Bayesian estimators): overall accuracy, class accuracy, confusion matrix.
+• Performance on testing data (using both MLE and BE estimators): overall accuracy, class accuracy, confusion matrix for MLE, overall accuracy, class accuracy, confusion matrix for BE.
